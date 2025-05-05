@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "college": "College Name",
+      "city": "City",
+      "state": "State"
+    },
+    {
+      "college": "National Institute of Technology Rourkela",
+      "city": "Rourkela",
+      "state": "Odisha"
+    },
+    {
+      "college": "Visvesvaraya National Institute of Technology Nagpur",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    {
+      "college": "Netaji Subhas University of Technology",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "college": "Birla Institute of Technology",
+      "city": "Ranchi",
+      "state": "Jharkhand"
+    },
+    {
+      "college": "International Institute of Information Technology",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "college": "BMS College of Engineering",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "college": "Institute of Chemical Technology",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "college": "Banaras Hindu University",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "college": "Thapar Institute of Engineering and Technology",
+      "city": "Patiala",
+      "state": "Punjab"
+    },
+    {
+      "college": "Shanmugha Arts Science Technology Research and Academy",
+      "city": "Thanjavur",
+      "state": "Tamil Nadu"
+    },
+    {
+      "college": "Indian Institute of Technology Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "college": "Nirma University",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "college": "Indraprastha Institute of Information Technology",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "college": "Lovely Professional University",
+      "city": "Phagwara",
+      "state": "Punjab"
+    },
+    {
+      "college": "International Institute of Information Technology Bangalore",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "college": "Christ University",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "college": "Sardar Vallabhbhai National Institute of Technology Surat",
+      "city": "Surat",
+      "state": "Gujarat"
+    },
+    {
+      "college": "National Institute of Technology Durgapur",
+      "city": "Durgapur",
+      "state": "West Bengal"
+    },
+    {
+      "college": "PES University",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "college": "Indian Institute of Space Science and Technology",
+      "city": "Thiruvananthapuram",
+      "state": "Kerala"
+    },
+    {
+      "college": "Indian Institute of Technology Banaras Hindu University Varanasi",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "college": "Maharashtra Institute of Technology",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "college": "National Institute of Technology Delhi",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "college": "Veermata Jijabai Technological Institute",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "college": "Amrita School of Engineering",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu"
+    },
+    {
+      "college": "National Institute of Technology Kurukshetra",
+      "city": "Kurukshetra",
+      "state": "Haryana"
+    },
+    {
+      "college": "MIT College of Engineering",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    {
+      "college": "College of Engineering",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    {
+      "college": "Malaviya National Institute of Technology Jaipur",
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    }
+  ]
+}
